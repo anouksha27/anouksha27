@@ -4,7 +4,7 @@
  
  Heyy 👋
 
-<!--
+
 I'm Anouksha Rajesh!
 
 Currently: B.Tech CSE with specialization in Artificial Intelligence and Machine Learning.
@@ -14,4 +14,4 @@ I'm a Graduate Student living in Chennai, India. Outside Tech, I love to read, e
 
 Write to me: anouksharajesh98402@gamil.com
 
--->
+
