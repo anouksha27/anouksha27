@@ -1,20 +1,22 @@
-
-![anouksha image readme](https://github.com/anouksha27/anouksha27/assets/117438308/52b128e2-f382-4d1b-9150-6eb472984b00)
-
- 
- Heyy 👋
-
-
+Heyy 👋
 I'm Anouksha Rajesh!
+🎓 Currently:
+Master of Science in Data Science at Columbia University, New York (Expected Graduation: December 2025)
+B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.
 
-Currently  :  B.Tech CSE with specialization in Artificial Intelligence and Machine Learning.
- 
- 🌱 I’m currently learning  Machine learning , Data engineering 
+🌱 What I’m Learning:
+Advanced Machine Learning
+Data Engineering
+Exploratory Data Analysis and Visualization
+Algorithms for Data Science
+⚡ About Me:
+I'm a graduate student based in New York, USA, with a deep passion for data science, machine learning, and artificial intelligence. My journey has been shaped by hands-on experiences during internships and projects, where I developed impactful machine learning models, improved processes, and collaborated with diverse teams.
 
-About Anouksha⚡:
+Outside of tech, I’m an avid reader, music lover, and an outdoor enthusiast who enjoys exploring nature.
 
-I'm a Graduate Student living in Chennai, India. Outside Tech, I love to read, enjoy music and explore nature outdoors. 
-
-Write to me: anouksharajesh98402@gamil.com
+📬 Connect With Me:
+Email: ar4829@columbia.edu
+LinkedIn: linkedin.com/in/anouksharajesh
+GitHub: github.com/anouksha27
 
 
