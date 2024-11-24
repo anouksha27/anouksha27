@@ -16,7 +16,9 @@ Outside of tech, I’m an avid reader, music lover, and an outdoor enthusiast wh
 
 📬 Connect With Me:
 Email: ar4829@columbia.edu
+
 LinkedIn: linkedin.com/in/anouksharajesh
+
 GitHub: github.com/anouksha27
 
 
