@@ -15,6 +15,7 @@ I'm a graduate student based in New York, USA, with a deep passion for data scie
 Outside of tech, I’m an avid reader, music lover, and an outdoor enthusiast who enjoys exploring nature.
 
 📬 Connect With Me:
+
 Email: ar4829@columbia.edu
 
 LinkedIn: linkedin.com/in/anouksharajesh
